@@ -27,13 +27,13 @@ Even though it didn’t turn out like “fully” clean architecture I was able 
 
 ## Pictures
 ### Before sorting using a blue wallpaper with dark theme
-![Screenshot_1691236934](https://github.com/Bivvercode/SortingAlgorithmsVisualizer/assets/113524638/937e7e05-acbb-4d4f-920a-697339babb3b)
+![Screenshot_1691236934](https://i.imgur.com/QtOFvUY.png)
 
 ### During sorting
-![Screenshot_1691236950](https://github.com/Bivvercode/SortingAlgorithmsVisualizer/assets/113524638/cffbbb92-7cf0-4618-a101-29abe2b29a3a)
+![Screenshot_1691236950](https://i.imgur.com/YQ2pUvX.png)
 
 ### Finished sorting using a green wallpaper with light theme
-![Screenshot_1691237050](https://github.com/Bivvercode/SortingAlgorithmsVisualizer/assets/113524638/999247a9-7c18-49d6-bb14-2cab5a54a24e)
+![Screenshot_1691237050](https://i.imgur.com/6MShtXL.png)
 
 
 ## Credits
